@@ -1,0 +1,14 @@
+{
+  "name": "electrongettingstarted",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "author": "Steve",
+  "license": "ISC",
+  "dependencies": {
+    "electron-prebuilt": "^1.4.13"
+  }
+}
